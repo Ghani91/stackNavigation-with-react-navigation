@@ -1,1 +1,0 @@
-# stackNavigation-with-react-navigation
